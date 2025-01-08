@@ -1,4 +1,4 @@
-# 2024-sp-plug-and-abandonment
+# SP simulations for wellbore plug and abandonment
 Notebooks for simulating SP effects in a wellbore plug and abandonment experiment
 
 ## Contents
