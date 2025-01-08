@@ -9,6 +9,7 @@ dependencies:
   - pymatsolver>=0.3
   - matplotlib-base
   - discretize>=0.11
+  - simpeg
   - geoana>=0.7
   - libdlf
   - pandas
